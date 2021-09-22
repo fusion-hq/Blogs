@@ -2,11 +2,10 @@
 slug: /
 title: 💔 Y-Combinator rejection to new SAAS launch 🚀
 authors: [vikas]
-tags: [facebook, hello, docusaurus]
+tags: [Open-source, Analytics, YC]
 ---
 
 ![Docusaurus Plushie](./Piedpiper.png)
-
 
 Before I get started let me share what we are building right now
 
@@ -33,5 +32,3 @@ We launched our polished MVP on [product hunt](https://www.producthunt.com/posts
 
 Thanks for your time,
 Cheers ✌️
-
-
