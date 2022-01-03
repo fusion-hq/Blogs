@@ -78,7 +78,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               items: [
                 {
                   label: "Tutorial",
-                  to: "/docs/intro",
+                  to: "https://docs.fusionhq.co",
                 },
               ],
             },
@@ -91,7 +91,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
                 },
                 {
                   label: "Twitter",
-                  href: "https://twitter.com/docusaurus",
+                  href: "https://twitter.com/Fusion__HQ",
                 },
               ],
             },
@@ -99,8 +99,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               title: "More",
               items: [
                 {
-                  label: "Blog",
-                  to: "/blog",
+                  label: "Docs",
+                  to: "https://docs.fusionhq.co",
                 },
                 {
                   label: "GitHub",
@@ -109,7 +109,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
               ],
             },
           ],
-          copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+          copyright: `Copyright © ${new Date().getFullYear()} Fusion`,
         },
         prism: {
           theme: lightCodeTheme,
